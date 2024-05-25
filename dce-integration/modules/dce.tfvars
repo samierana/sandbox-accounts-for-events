@@ -1,6 +1,6 @@
 namespace = "dce"
 namespace_prefix = "dce"
-aws_region = "us-east-1"
+aws_region = "us-west-2"
 allowed_regions = [
     "us-east-1",
     "us-west-2"
